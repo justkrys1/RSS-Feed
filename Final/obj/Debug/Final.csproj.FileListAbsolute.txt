@@ -1,0 +1,6 @@
+E:\ASPII\Final\Final\bin\Final.dll.config
+E:\ASPII\Final\Final\bin\Final.dll
+E:\ASPII\Final\Final\bin\Final.pdb
+E:\ASPII\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+E:\ASPII\Final\Final\obj\Debug\Final.dll
+E:\ASPII\Final\Final\obj\Debug\Final.pdb

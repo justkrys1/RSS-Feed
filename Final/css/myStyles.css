@@ -1,0 +1,138 @@
+﻿body {
+    background-color:gray;
+}
+
+
+header {
+    width:90%;
+    margin:auto;
+    margin-bottom:5px;
+    background-color:darkblue;
+    color:gold;
+    text-shadow:4px 3px 2px gray;
+    font-size:48px;
+    font-family:GungsuhChe,Arial, sans-serif;
+    text-align:center;
+    border:groove 2px gold;
+    border-bottom-left-radius:5em;
+    border-top-right-radius:5em;
+    height:100px;
+}
+
+#top {
+    width:500px;
+    margin:auto;
+    margin-bottom:15px;
+    margin-top:10px;
+}
+
+#leftColumn {
+    width:49%;
+    float:left;
+}
+
+#rightColumn {
+    width:49%;
+    float:right;
+}
+
+.time {
+    color:black;
+    font-family:Arial, sans-serif;
+    font-size:24px;
+    font-weight:900;
+  
+}
+
+#date {
+      text-align:center;
+} 
+
+#banner {
+    background-color:darkblue;
+    color:gold;
+    border:dashed red 2px;
+    text-align:center;
+    font-family:'Arial Rounded MT', Arial;
+    font-weight:bolder;
+    font-size:20px;
+
+}
+
+.article {
+    background-color:floralwhite;
+    border-radius:1.65em;
+    margin-top:15px;
+}
+.ArtCaption {
+    color:darkblue;
+    font-style:oblique;
+    font-size:24px;
+    font-weight:bolder;
+    background-color:gold;
+    border-top-left-radius:2em;
+    border-top-right-radius:2em;
+    text-align:center;
+}
+
+#art {
+    margin:10px;
+}
+
+#artSpokane {
+    padding-left:30%;
+}
+
+.ArtData {
+    padding:15px;
+    background-color:darkblue;
+    color:gold;
+    border-bottom-left-radius:2em;
+    border-bottom-right-radius:2em;
+}
+
+#artWeather {
+    padding-left:40%;
+    padding-top:5%;
+    
+}
+
+#weather {
+    background-image:url("../Images/spokane.jpg");
+    height:275px;
+    background-size:cover;
+    font-size:24px;
+}
+
+
+.navMenu{
+    background-color:gold;
+    border:groove 1px darkblue;
+    color:darkblue;
+    text-align: center;
+    font-family:'Bradley Hand ITC', Arial, sans-serif;
+    font-size:24px;
+    font-weight:900;
+    padding:10px;
+    display: inline-block;
+    margin:auto;
+    border-radius:1em;
+}
+
+a {
+    color:white;
+}
+
+.moreNewsButton {
+    text-align:center;
+}
+
+.more {
+    color:darkblue;
+}
+
+
+
+
+
+             
